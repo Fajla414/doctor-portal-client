@@ -1,0 +1,8 @@
+.footer-container{
+    margin-top: 200px;
+    height: 300px;
+    width: 100%;
+    background-image: url('../../../images/footer.png');
+    /* background-color: #3A4256; */
+    background-size: cover;
+}
