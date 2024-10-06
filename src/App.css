@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 body {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -12,4 +20,12 @@ body {
 
 .bg-color2{
   background-color: #3A4256;
+}
+
+.text-color{
+  color: #0FCFEC;
+}
+
+.bg-google{
+  background-image: linear-gradient(45deg, #4285f4,  #ea4335);
 }

@@ -1,0 +1,22 @@
+.sidebar-container{
+    height: 95vh;
+    padding: 1.5rem 0 0 0;
+    border-radius: 6px;
+
+}
+
+.sidebar-container ul li{
+    list-style: none;
+    margin-bottom: 1.3rem;
+}
+
+.sidebar-container ul li  .link{
+    text-decoration: none;
+    color:  #fff;
+    font-weight: 500;
+}
+
+.sidebar-container ul li .icon{
+    font-size: 1.3rem;
+    color: #fff;
+}
